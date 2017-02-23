@@ -1,0 +1,20 @@
+{
+  "account_id": "dbid:AABnU0oiatCNFORAH_DKFkMYjzMBn6bJld4",
+  "name": {
+    "given_name": "Bartek",
+    "surname": "Mazurkiewicz",
+    "familiar_name": "Bartek",
+    "display_name": "Bartek Mazurkiewicz",
+    "abbreviated_name": "BM"
+  },
+  "email": "javandhttp.7@wp.pl",
+  "email_verified": true,
+  "disabled": false,
+  "country": "PL",
+  "locale": "pl",
+  "referral_link": "https:\/\/db.tt\/ynNKzdFEl3",
+  "is_paired": false,
+  "account_type": {
+    ".tag": "basic"
+  }
+}
