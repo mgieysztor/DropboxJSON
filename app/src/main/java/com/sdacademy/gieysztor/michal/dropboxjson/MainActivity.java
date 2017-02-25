@@ -51,7 +51,7 @@ public class MainActivity extends AppCompatActivity {
         ButterKnife.bind(this);
         new DownloadDropboxTask().execute();
 
-        mCountryData.setText(country);
+//        mCountryData.setText(country);
 
 
 
